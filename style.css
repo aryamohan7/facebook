@@ -111,7 +111,7 @@ body{
 @media(max-width:500px){
    .main{
     background-color: rgb(228, 228, 235);
-    width: 1000px;
+    width: 100%;
     height: 300px;
    } 
    #Layer_1{
